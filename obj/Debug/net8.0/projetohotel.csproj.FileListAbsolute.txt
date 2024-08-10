@@ -1,0 +1,14 @@
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.AssemblyInfoInputs.cache
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.AssemblyInfo.cs
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.csproj.CoreCompileInputs.cache
+C:\projetos\reservahotel\projetohotel\bin\Debug\net8.0\projetohotel.exe
+C:\projetos\reservahotel\projetohotel\bin\Debug\net8.0\projetohotel.deps.json
+C:\projetos\reservahotel\projetohotel\bin\Debug\net8.0\projetohotel.runtimeconfig.json
+C:\projetos\reservahotel\projetohotel\bin\Debug\net8.0\projetohotel.dll
+C:\projetos\reservahotel\projetohotel\bin\Debug\net8.0\projetohotel.pdb
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.dll
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\refint\projetohotel.dll
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.pdb
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\projetohotel.genruntimeconfig.cache
+C:\projetos\reservahotel\projetohotel\obj\Debug\net8.0\ref\projetohotel.dll
